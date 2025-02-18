@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-site/static/css/main.db201cfa.css",
-    "main.js": "/react-site/static/js/main.7f825330.js",
+    "main.css": "/react-site/static/css/main.2c872694.css",
+    "main.js": "/react-site/static/js/main.51275f28.js",
     "static/js/488.0c0f33b0.chunk.js": "/react-site/static/js/488.0c0f33b0.chunk.js",
     "static/media/Layer 0.png": "/react-site/static/media/Layer 0.85bb4dfeaae38058f513.png",
     "static/media/Layer 1.png": "/react-site/static/media/Layer 1.1c7b4a18ccb3c7ec5c04.png",
     "static/media/Awkward-4x.gif": "/react-site/static/media/Awkward-4x.e05bb186545ccfe14037.gif",
     "index.html": "/react-site/index.html",
-    "main.db201cfa.css.map": "/react-site/static/css/main.db201cfa.css.map",
-    "main.7f825330.js.map": "/react-site/static/js/main.7f825330.js.map",
+    "main.2c872694.css.map": "/react-site/static/css/main.2c872694.css.map",
+    "main.51275f28.js.map": "/react-site/static/js/main.51275f28.js.map",
     "488.0c0f33b0.chunk.js.map": "/react-site/static/js/488.0c0f33b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db201cfa.css",
-    "static/js/main.7f825330.js"
+    "static/css/main.2c872694.css",
+    "static/js/main.51275f28.js"
   ]
 }
